@@ -1,3 +1,7 @@
+# Specific to this project
+main_nvc_research.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
