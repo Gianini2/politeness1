@@ -14,3 +14,6 @@ OPENAI_APIKEY =
 OPENAI_PROJECT =
 OPENAI_PROJECT_ID =
 ```
+
+Using .venv: 
+1. create a python 
