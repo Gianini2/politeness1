@@ -1,6 +1,7 @@
 # Specific to this project
 main_nvc_research.ipynb
 bert
+model.safetensors
 
 
 # Byte-compiled / optimized / DLL files
